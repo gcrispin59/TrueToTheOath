@@ -8,7 +8,6 @@ This directory contains information on the legal basis and requirements for the 
 - `28-cfr-0-112.md` - Text and explanation of 28 CFR § 0.112 (Special Deputation)
 - `judiciary-act-1789.md` - Historical context from the Judiciary Act of 1789
 - `oath-of-office.md` - The official oath required for special deputies
-- `liability-information.md` - Information on liability considerations for special deputies
 - `state-specific/` - State-specific legal considerations
 
 ## Disclaimer
