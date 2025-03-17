@@ -1,5 +1,16 @@
 # Marketing Materials
 
+## Registration vs. Membership
+Registration in the deputization database is completely free and separate from any optional membership options or merchandise purchases. Paid memberships provide additional resources but do not affect eligibility for deputization.
+
+## Official Status
+Neither registration nor purchase of any merchandise or membership confers any official status, law enforcement authority, or special privileges. Only official deputization by the U.S. Marshals Service can grant such authority.
+
+## Financial Transparency
+All funds collected through memberships and merchandise are allocated transparently: 70% supports infrastructure and administration, 20% funds outreach programs, and 10% covers legal compliance. Detailed financial reports are published monthly.
+
+## Unofficial Merchandise
+All merchandise, certificates, and emblems offered are commemorative items only and are not official U.S. Marshals Service products. Items are clearly marked as unofficial and are produced by True to the Oath Initiative, not by any government agency.
 This directory contains campaign assets and promotional materials for the initiative.
 
 ## Contents
